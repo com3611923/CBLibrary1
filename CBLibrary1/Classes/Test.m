@@ -10,4 +10,9 @@
 
 @implementation Test
 
+- (void)test
+{
+    NSLog(@"CBLibrary test");
+}
+
 @end
