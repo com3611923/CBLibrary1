@@ -1,0 +1,6 @@
+framework module CBLibrary1 {
+  umbrella header "CBLibrary1-umbrella.h"
+
+  export *
+  module * { export * }
+}

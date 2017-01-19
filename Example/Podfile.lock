@@ -1,0 +1,16 @@
+PODS:
+  - CBLibrary1 (0.1.0)
+
+DEPENDENCIES:
+  - CBLibrary1 (from `../`)
+
+EXTERNAL SOURCES:
+  CBLibrary1:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CBLibrary1: 46d01fcb5d1a149a5647468edb3e98674964acd4
+
+PODFILE CHECKSUM: b53992a29db7d7916183d0e34c01f12a533e9e9c
+
+COCOAPODS: 1.0.1

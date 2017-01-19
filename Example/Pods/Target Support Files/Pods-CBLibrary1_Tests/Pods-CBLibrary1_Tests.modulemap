@@ -1,0 +1,6 @@
+framework module Pods_CBLibrary1_Tests {
+  umbrella header "Pods-CBLibrary1_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
